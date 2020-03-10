@@ -1,7 +1,7 @@
 # lab2 
 Non Market Housing in Vancouver
 
-![Non-market Housing in Vancouver](https://zackinzanebyrd.github.io/lab2/nonmarket.png "Non-Market Housing in Vancouver")
+![Non-market Housing in Vancouver](https://zackinzanebyrd.github.io/lab2/master/nonmarket.PNG "Non-Market Housing in Vancouver")
 
 https://zackinzanebyrd.github.io/lab2/lab2test.html
 
